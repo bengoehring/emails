@@ -63,9 +63,7 @@ names_xwalk <- names_xwalk %>%
 saveRDS(names_xwalk,
         "data/texas-emails/DSHSEmails-clean.rds")         
          
-         
 
-boo = names_xwalk %>% 
   
          
          
